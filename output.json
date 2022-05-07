@@ -1,0 +1,3167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.996479,
+          13.753083
+        ]
+      },
+      "properties": {
+        "id": 758001,
+        "country": "Saint Lucia",
+        "name": "Grande Riviere Combined",
+        "latitude": 13.753083,
+        "longitude": -60.996479,
+        "address": "Grande Riviere, Gros Islet, Castries,",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 194,
+        "total_teachers": 5,
+        "ownership": "Public",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.944432,
+          14.079349
+        ]
+      },
+      "properties": {
+        "id": 758002,
+        "country": "Saint Lucia",
+        "name": "Gros Islet Combined",
+        "latitude": 14.079349,
+        "longitude": -60.944432,
+        "address": "School Road, Massade, Gros Islet",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 320,
+        "total_teachers": 8,
+        "ownership": "Public",
+        "no_computers": 19,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 6,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.929559,
+          14.05327
+        ]
+      },
+      "properties": {
+        "id": 758003,
+        "country": "Saint Lucia",
+        "name": "Monchy Combined",
+        "latitude": 14.05327,
+        "longitude": -60.929559,
+        "address": "Monchy",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 160,
+        "total_teachers": 5,
+        "ownership": "Public",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 3,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.989445,
+          14.008629
+        ]
+      },
+      "properties": {
+        "id": 758004,
+        "country": "Saint Lucia",
+        "name": "St. Aloysius R.C. Boy's Primary",
+        "latitude": 14.008629,
+        "longitude": -60.989445,
+        "address": "Brazil Street, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 395,
+        "total_teachers": 16,
+        "ownership": "Public",
+        "no_computers": 6,
+        "internet_availability": "Available",
+        "restrooms_total": 9,
+        "classrooms_total": 9,
+        "Health_kits_total": 4,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.988871,
+          14.008835
+        ]
+      },
+      "properties": {
+        "id": 758005,
+        "country": "Saint Lucia",
+        "name": "Ave Maria Girls Primary",
+        "latitude": 14.008835,
+        "longitude": -60.988871,
+        "address": "Broglie Street, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 473,
+        "total_teachers": 10,
+        "ownership": "Public",
+        "no_computers": 9,
+        "internet_availability": "Available",
+        "restrooms_total": 11,
+        "classrooms_total": 22,
+        "Health_kits_total": 10,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.987649,
+          14.013594
+        ]
+      },
+      "properties": {
+        "id": 758006,
+        "country": "Saint Lucia",
+        "name": "Methodist Combined",
+        "latitude": 14.013594,
+        "longitude": -60.987649,
+        "address": "Darling Road",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 280,
+        "total_teachers": 8,
+        "ownership": "Public",
+        "no_computers": 7,
+        "internet_availability": "Not available",
+        "restrooms_total": 5,
+        "classrooms_total": 13,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.954608,
+          13.973995
+        ]
+      },
+      "properties": {
+        "id": 758007,
+        "country": "Saint Lucia",
+        "name": "Forestierre Combined",
+        "latitude": 13.973995,
+        "longitude": -60.954608,
+        "address": "Forestiere, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 82,
+        "total_teachers": 2,
+        "ownership": "Public",
+        "no_computers": 7,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.986481,
+          14.011468
+        ]
+      },
+      "properties": {
+        "id": 758008,
+        "country": "Saint Lucia",
+        "name": "Anglican Primary",
+        "latitude": 14.011468,
+        "longitude": -60.986481,
+        "address": "Chausee Road",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 260,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 10,
+        "internet_availability": "Not available",
+        "restrooms_total": 6,
+        "classrooms_total": 5,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.944732,
+          14.00475
+        ]
+      },
+      "properties": {
+        "id": 758009,
+        "country": "Saint Lucia",
+        "name": "Babonneau Primary",
+        "latitude": 14.00475,
+        "longitude": -60.944732,
+        "address": "Babonneau",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 150,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 6,
+        "Health_kits_total": 2,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.918644,
+          14.011969
+        ]
+      },
+      "properties": {
+        "id": 758010,
+        "country": "Saint Lucia",
+        "name": "Boguis Combined",
+        "latitude": 14.011969,
+        "longitude": -60.918644,
+        "address": "Boguis",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 66,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 1,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.983663,
+          14.003524
+        ]
+      },
+      "properties": {
+        "id": 758011,
+        "country": "Saint Lucia",
+        "name": "Bishop Charles Gachet R.C. Primary School",
+        "latitude": 14.003524,
+        "longitude": -60.983663,
+        "address": "Marchand Road, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 164,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 15,
+        "internet_availability": "Available",
+        "restrooms_total": 4,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.967352,
+          13.993287
+        ]
+      },
+      "properties": {
+        "id": 758012,
+        "country": "Saint Lucia",
+        "name": "Ti Rocher Combined",
+        "latitude": 13.993287,
+        "longitude": -60.967352,
+        "address": "Ti Rocher, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 138,
+        "total_teachers": 3,
+        "ownership": "Private",
+        "no_computers": 13,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 6,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.009403,
+          13.990398
+        ]
+      },
+      "properties": {
+        "id": 758013,
+        "country": "Saint Lucia",
+        "name": "Ciceron Combined",
+        "latitude": 13.990398,
+        "longitude": -61.009403,
+        "address": "Ciceron, Castries",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 442,
+        "total_teachers": 16,
+        "ownership": "Private",
+        "no_computers": 16,
+        "internet_availability": "Available",
+        "restrooms_total": 9,
+        "classrooms_total": 7,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.975235,
+          13.952506
+        ]
+      },
+      "properties": {
+        "id": 758015,
+        "country": "Saint Lucia",
+        "name": "Bexon Primary",
+        "latitude": 13.952506,
+        "longitude": -60.975235,
+        "address": "Bexon",
+        "admin_district": "Castries ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 268,
+        "total_teachers": 10,
+        "ownership": "Public",
+        "no_computers": 18,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 8,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.953809,
+          14.012568
+        ]
+      },
+      "properties": {
+        "id": 758016,
+        "country": "Saint Lucia",
+        "name": "La Croix Maingot Combined",
+        "latitude": 14.012568,
+        "longitude": -60.953809,
+        "address": "La Croix Maingot, Castries",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 250,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 8,
+        "internet_availability": "Not available",
+        "restrooms_total": 5,
+        "classrooms_total": 5,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.987349,
+          13.97464
+        ]
+      },
+      "properties": {
+        "id": 758017,
+        "country": "Saint Lucia",
+        "name": "Odsan Combined",
+        "latitude": 13.97464,
+        "longitude": -60.987349,
+        "address": "Odsan",
+        "admin_district": "Castries ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 377,
+        "total_teachers": 9,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Available",
+        "restrooms_total": 7,
+        "classrooms_total": 6,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.909131,
+          13.99286
+        ]
+      },
+      "properties": {
+        "id": 758018,
+        "country": "Saint Lucia",
+        "name": "Des Barras Combined",
+        "latitude": 13.99286,
+        "longitude": -60.909131,
+        "address": "Des Barras, Babonneau",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 49,
+        "total_teachers": 2,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Not available",
+        "restrooms_total": 1,
+        "classrooms_total": 2,
+        "Health_kits_total": 1,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.929385,
+          14.021475
+        ]
+      },
+      "properties": {
+        "id": 758019,
+        "country": "Saint Lucia",
+        "name": "La Guerre Combined",
+        "latitude": 14.021475,
+        "longitude": -60.929385,
+        "address": "P.O.Box QAB 123 La Guerre",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 108,
+        "total_teachers": 3,
+        "ownership": "Private",
+        "no_computers": 10,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 2,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.989111,
+          14.019946
+        ]
+      },
+      "properties": {
+        "id": 758020,
+        "country": "Saint Lucia",
+        "name": "Carmille Henry Memorial",
+        "latitude": 14.019946,
+        "longitude": -60.989111,
+        "address": "Lanse Road, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 707,
+        "total_teachers": 21,
+        "ownership": "Public",
+        "no_computers": 20,
+        "internet_availability": "Available",
+        "restrooms_total": 15,
+        "classrooms_total": 19,
+        "Health_kits_total": 11,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.944732,
+          14.00475
+        ]
+      },
+      "properties": {
+        "id": 758021,
+        "country": "Saint Lucia",
+        "name": "Fond Assau Combined",
+        "latitude": 14.00475,
+        "longitude": -60.944732,
+        "address": "Babonneau",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 121,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 2,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.990257,
+          14.017216
+        ]
+      },
+      "properties": {
+        "id": 758022,
+        "country": "Saint Lucia",
+        "name": "Carmen Rene Memorial",
+        "latitude": 14.017216,
+        "longitude": -60.990257,
+        "address": "Sans Souci, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 614,
+        "total_teachers": 19,
+        "ownership": "Public",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 11,
+        "classrooms_total": 10,
+        "Health_kits_total": 7,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.970013,
+          14.000736
+        ]
+      },
+      "properties": {
+        "id": 758023,
+        "country": "Saint Lucia",
+        "name": "Bocage Combined",
+        "latitude": 14.000736,
+        "longitude": -60.970013,
+        "address": "Bocage, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 110,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 2,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.953809,
+          14.012568
+        ]
+      },
+      "properties": {
+        "id": 758024,
+        "country": "Saint Lucia",
+        "name": "Balata Combined",
+        "latitude": 14.012568,
+        "longitude": -60.953809,
+        "address": "Balata, Babonneau, Castries",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 237,
+        "total_teachers": 12,
+        "ownership": "Private",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 6,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.978493,
+          14.011713
+        ]
+      },
+      "properties": {
+        "id": 758025,
+        "country": "Saint Lucia",
+        "name": "Morne Dudon Combined",
+        "latitude": 14.011713,
+        "longitude": -60.978493,
+        "address": "Morne Du Don Road, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 367,
+        "total_teachers": 8,
+        "ownership": "Private",
+        "no_computers": 12,
+        "internet_availability": "Not available",
+        "restrooms_total": 8,
+        "classrooms_total": 6,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.040783,
+          13.936949
+        ]
+      },
+      "properties": {
+        "id": 758029,
+        "country": "Saint Lucia",
+        "name": "Anse la Raye Primary",
+        "latitude": 13.936949,
+        "longitude": -61.040783,
+        "address": "Invergol Estate, Anse La Raye",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 192,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 16,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 9,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.996944,
+          13.916317
+        ]
+      },
+      "properties": {
+        "id": 758030,
+        "country": "Saint Lucia",
+        "name": "Millet Combined",
+        "latitude": 13.916317,
+        "longitude": -60.996944,
+        "address": "Venus Road, Millet, Anse La Raye",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 353,
+        "total_teachers": 10,
+        "ownership": "Public",
+        "no_computers": 6,
+        "internet_availability": "Available",
+        "restrooms_total": 8,
+        "classrooms_total": 16,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.016904,
+          13.950837
+        ]
+      },
+      "properties": {
+        "id": 758031,
+        "country": "Saint Lucia",
+        "name": "Roseau Combined",
+        "latitude": 13.950837,
+        "longitude": -61.016904,
+        "address": "Jacmel",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 185,
+        "total_teachers": 9,
+        "ownership": "Public",
+        "no_computers": 8,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 5,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.067039,
+          13.904263
+        ]
+      },
+      "properties": {
+        "id": 758032,
+        "country": "Saint Lucia",
+        "name": "Canaries Primary",
+        "latitude": 13.904263,
+        "longitude": -61.067039,
+        "address": "Mary Ann Street, Canaries",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 92,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 9,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.071078,
+          13.879618
+        ]
+      },
+      "properties": {
+        "id": 758033,
+        "country": "Saint Lucia",
+        "name": "Bouton Combined",
+        "latitude": 13.879618,
+        "longitude": -61.071078,
+        "address": "Bouton, Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 45,
+        "total_teachers": 2,
+        "ownership": "Private",
+        "no_computers": 20,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 1,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.057021,
+          13.857173
+        ]
+      },
+      "properties": {
+        "id": 758034,
+        "country": "Saint Lucia",
+        "name": "Soufriere Primary",
+        "latitude": 13.857173,
+        "longitude": -61.057021,
+        "address": "Palmiste Road, Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 232,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 9,
+        "internet_availability": "Available",
+        "restrooms_total": 5,
+        "classrooms_total": 7,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.029085,
+          13.83954
+        ]
+      },
+      "properties": {
+        "id": 758036,
+        "country": "Saint Lucia",
+        "name": "Fond St. Jacques Primary",
+        "latitude": 13.83954,
+        "longitude": -61.029085,
+        "address": "St. Philip, Fond St. Jacques, Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 174,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 4,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.044674,
+          13.818593
+        ]
+      },
+      "properties": {
+        "id": 758037,
+        "country": "Saint Lucia",
+        "name": "Les Etangs Combined",
+        "latitude": 13.818593,
+        "longitude": -61.044674,
+        "address": "Etangs, Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 183,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 15,
+        "internet_availability": "Available",
+        "restrooms_total": 4,
+        "classrooms_total": 5,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.045429,
+          13.776421
+        ]
+      },
+      "properties": {
+        "id": 758038,
+        "country": "Saint Lucia",
+        "name": "Reunion Primary",
+        "latitude": 13.776421,
+        "longitude": -61.045429,
+        "address": "Reunion, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 139,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 10,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.02548,
+          13.759789
+        ]
+      },
+      "properties": {
+        "id": 758039,
+        "country": "Saint Lucia",
+        "name": "Riviere Doree Combined",
+        "latitude": 13.759789,
+        "longitude": -61.02548,
+        "address": "Riviere Doree, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 90,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.040746,
+          13.775331
+        ]
+      },
+      "properties": {
+        "id": 758040,
+        "country": "Saint Lucia",
+        "name": "Dugard Combined",
+        "latitude": 13.775331,
+        "longitude": -61.040746,
+        "address": "Dugard, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 68,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 11,
+        "internet_availability": "Available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.058091,
+          13.800482
+        ]
+      },
+      "properties": {
+        "id": 758041,
+        "country": "Saint Lucia",
+        "name": "Delcer Combined",
+        "latitude": 13.800482,
+        "longitude": -61.058091,
+        "address": "Delcer, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 103,
+        "total_teachers": 5,
+        "ownership": "Public",
+        "no_computers": 11,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.032701,
+          13.764702
+        ]
+      },
+      "properties": {
+        "id": 758042,
+        "country": "Saint Lucia",
+        "name": "Roblot Combined",
+        "latitude": 13.764702,
+        "longitude": -61.032701,
+        "address": "Debrieul, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 53,
+        "total_teachers": 2,
+        "ownership": "Private",
+        "no_computers": 13,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 1,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.044829,
+          13.798162
+        ]
+      },
+      "properties": {
+        "id": 758043,
+        "country": "Saint Lucia",
+        "name": "Mongouge Combined",
+        "latitude": 13.798162,
+        "longitude": -61.044829,
+        "address": "Ponyon, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 83,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 11,
+        "internet_availability": "Available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.993239,
+          13.751757
+        ]
+      },
+      "properties": {
+        "id": 758044,
+        "country": "Saint Lucia",
+        "name": "Laborie Boys' Primary",
+        "latitude": 13.751757,
+        "longitude": -60.993239,
+        "address": "Citrus Grove, Laborie",
+        "admin_district": "Laborie",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 102,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 11,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.996479,
+          13.753083
+        ]
+      },
+      "properties": {
+        "id": 758045,
+        "country": "Saint Lucia",
+        "name": "Laborie Girls' Primary",
+        "latitude": 13.753083,
+        "longitude": -60.996479,
+        "address": "Eucalyptus Avenue, Laborie",
+        "admin_district": "Laborie",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 158,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 8,
+        "Health_kits_total": 3,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.009835,
+          13.783415
+        ]
+      },
+      "properties": {
+        "id": 758046,
+        "country": "Saint Lucia",
+        "name": "Saltibus Combined",
+        "latitude": 13.783415,
+        "longitude": -61.009835,
+        "address": "Saltibus, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 102,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 18,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.022662,
+          13.75743
+        ]
+      },
+      "properties": {
+        "id": 758047,
+        "country": "Saint Lucia",
+        "name": "Piaye Combined",
+        "latitude": 13.75743,
+        "longitude": -61.022662,
+        "address": "Piaye. Saltibus",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 110,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.949784,
+          13.729117
+        ]
+      },
+      "properties": {
+        "id": 758048,
+        "country": "Saint Lucia",
+        "name": "Vieux Fort Primary",
+        "latitude": 13.729117,
+        "longitude": -60.949784,
+        "address": "Beanefield, Vieux-Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 205,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 18,
+        "internet_availability": "Not available",
+        "restrooms_total": 5,
+        "classrooms_total": 6,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.980898,
+          13.754083
+        ]
+      },
+      "properties": {
+        "id": 758049,
+        "country": "Saint Lucia",
+        "name": "Augier Combined",
+        "latitude": 13.754083,
+        "longitude": -60.980898,
+        "address": "Augier Vieux Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 325,
+        "total_teachers": 8,
+        "ownership": "Private",
+        "no_computers": 18,
+        "internet_availability": "Not available",
+        "restrooms_total": 7,
+        "classrooms_total": 6,
+        "Health_kits_total": 6,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.968439,
+          13.779243
+        ]
+      },
+      "properties": {
+        "id": 758050,
+        "country": "Saint Lucia",
+        "name": "Grace Combined",
+        "latitude": 13.779243,
+        "longitude": -60.968439,
+        "address": "Grace, Vieux-Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 131,
+        "total_teachers": 4,
+        "ownership": "Private",
+        "no_computers": 13,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.959676,
+          13.745649
+        ]
+      },
+      "properties": {
+        "id": 758051,
+        "country": "Saint Lucia",
+        "name": "Plain View Combined",
+        "latitude": 13.745649,
+        "longitude": -60.959676,
+        "address": "La Ressource, Vieux Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 594,
+        "total_teachers": 29,
+        "ownership": "Public",
+        "no_computers": 18,
+        "internet_availability": "Not available",
+        "restrooms_total": 13,
+        "classrooms_total": 22,
+        "Health_kits_total": 8,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.956595,
+          13.791962
+        ]
+      },
+      "properties": {
+        "id": 758052,
+        "country": "Saint Lucia",
+        "name": "Belle Vue Combined",
+        "latitude": 13.791962,
+        "longitude": -60.956595,
+        "address": "Belle Vue, Vieux-Fort",
+        "admin_district": "Micoud",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 111,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 13,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.900136,
+          13.819331
+        ]
+      },
+      "properties": {
+        "id": 758053,
+        "country": "Saint Lucia",
+        "name": "Micoud Primary",
+        "latitude": 13.819331,
+        "longitude": -60.900136,
+        "address": "MICOUD",
+        "admin_district": "Micoud",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 133,
+        "total_teachers": 3,
+        "ownership": "Private",
+        "no_computers": 12,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 5,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.907693,
+          13.85108
+        ]
+      },
+      "properties": {
+        "id": 758054,
+        "country": "Saint Lucia",
+        "name": "Mon Repos/Patience Combined",
+        "latitude": 13.85108,
+        "longitude": -60.907693,
+        "address": "Patience Mon Repos",
+        "admin_district": "Micoud",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 274,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 10,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 6,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.934286,
+          13.798105
+        ]
+      },
+      "properties": {
+        "id": 758055,
+        "country": "Saint Lucia",
+        "name": "Desruisseaux Combined",
+        "latitude": 13.798105,
+        "longitude": -60.934286,
+        "address": "Desruisseaux, Micoud",
+        "admin_district": "Micoud",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 219,
+        "total_teachers": 9,
+        "ownership": "Public",
+        "no_computers": 15,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 5,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.922452,
+          13.818123
+        ]
+      },
+      "properties": {
+        "id": 758057,
+        "country": "Saint Lucia",
+        "name": "Ti Rocher (Micoud)",
+        "latitude": 13.818123,
+        "longitude": -60.922452,
+        "address": "TI ROCHER, MICOUD",
+        "admin_district": "Micoud",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 150,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 7,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.945869,
+          13.807458
+        ]
+      },
+      "properties": {
+        "id": 758058,
+        "country": "Saint Lucia",
+        "name": "Blanchard Combined",
+        "latitude": 13.807458,
+        "longitude": -60.945869,
+        "address": "Blanchard",
+        "admin_district": "Micoud",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 149,
+        "total_teachers": 4,
+        "ownership": "Public",
+        "no_computers": 7,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.998249,
+          13.986719
+        ]
+      },
+      "properties": {
+        "id": 758060,
+        "country": "Saint Lucia",
+        "name": "Dennery Primary",
+        "latitude": 13.986719,
+        "longitude": -60.998249,
+        "address": "Derniere Riviere, Mabouya Valley",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 131,
+        "total_teachers": 4,
+        "ownership": "Private",
+        "no_computers": 11,
+        "internet_availability": "Not available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.916209,
+          13.944701
+        ]
+      },
+      "properties": {
+        "id": 758061,
+        "country": "Saint Lucia",
+        "name": "La Ressource Combined",
+        "latitude": 13.944701,
+        "longitude": -60.916209,
+        "address": "LA RESSOURCE, DENNERY",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 224,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 4,
+        "Health_kits_total": 6,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.942686,
+          13.770094
+        ]
+      },
+      "properties": {
+        "id": 758062,
+        "country": "Saint Lucia",
+        "name": "Pierrot Combined",
+        "latitude": 13.770094,
+        "longitude": -60.942686,
+        "address": "Pierrot",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 286,
+        "total_teachers": 12,
+        "ownership": "Public",
+        "no_computers": 16,
+        "internet_availability": "Available",
+        "restrooms_total": 6,
+        "classrooms_total": 6,
+        "Health_kits_total": 6,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.00059,
+          13.778325
+        ]
+      },
+      "properties": {
+        "id": 758063,
+        "country": "Saint Lucia",
+        "name": "Banse La Grace Combined",
+        "latitude": 13.778325,
+        "longitude": -61.00059,
+        "address": "Banse La Grace, Laborie",
+        "admin_district": "Laborie",
+        "edu_district": 7,
+        "level": "Primary ",
+        "total_students": 71,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 16,
+        "internet_availability": "Available",
+        "restrooms_total": 2,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.923184,
+          13.951153
+        ]
+      },
+      "properties": {
+        "id": 758064,
+        "country": "Saint Lucia",
+        "name": "Derniere Riviere Combined",
+        "latitude": 13.951153,
+        "longitude": -60.923184,
+        "address": "Mole Road, Dennery",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 211,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 16,
+        "internet_availability": "Not available",
+        "restrooms_total": 6,
+        "classrooms_total": 5,
+        "Health_kits_total": 5,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.912009,
+          13.946871
+        ]
+      },
+      "properties": {
+        "id": 758065,
+        "country": "Saint Lucia",
+        "name": "Aux Lyons Combined",
+        "latitude": 13.946871,
+        "longitude": -60.912009,
+        "address": "Aux Lyons",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 133,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 7,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.982575,
+          14.019168
+        ]
+      },
+      "properties": {
+        "id": 758067,
+        "country": "Saint Lucia",
+        "name": "Vide Bouteille Combined",
+        "latitude": 14.019168,
+        "longitude": -60.982575,
+        "address": "La Clery, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 218,
+        "total_teachers": 11,
+        "ownership": "Private",
+        "no_computers": 14,
+        "internet_availability": "Not available",
+        "restrooms_total": 5,
+        "classrooms_total": 4,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.923562,
+          13.936568
+        ]
+      },
+      "properties": {
+        "id": 758068,
+        "country": "Saint Lucia",
+        "name": "Richfond Combined",
+        "latitude": 13.936568,
+        "longitude": -60.923562,
+        "address": "Richfond, Mabouya Valley, Dennery",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 243,
+        "total_teachers": 7,
+        "ownership": "Public",
+        "no_computers": 10,
+        "internet_availability": "Available",
+        "restrooms_total": 5,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.987855,
+          14.011635
+        ]
+      },
+      "properties": {
+        "id": 758069,
+        "country": "Saint Lucia",
+        "name": "Anglican Infant",
+        "latitude": 14.011635,
+        "longitude": -60.987855,
+        "address": "Trinity Church Road, Castries St.Lucia",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Primary ",
+        "total_students": 226,
+        "total_teachers": 6,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Not available",
+        "restrooms_total": 6,
+        "classrooms_total": 8,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.988527,
+          14.008899
+        ]
+      },
+      "properties": {
+        "id": 758070,
+        "country": "Saint Lucia",
+        "name": "Ave Maria Girls Infant",
+        "latitude": 14.008899,
+        "longitude": -60.988527,
+        "address": "Micoud Street, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 372,
+        "total_teachers": 10,
+        "ownership": "Private",
+        "no_computers": 8,
+        "internet_availability": "Available",
+        "restrooms_total": 7,
+        "classrooms_total": 7,
+        "Health_kits_total": 9,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.944732,
+          14.00475
+        ]
+      },
+      "properties": {
+        "id": 758071,
+        "country": "Saint Lucia",
+        "name": "Dame Pearlette Louisy Primary",
+        "latitude": 14.00475,
+        "longitude": -60.944732,
+        "address": "Postlewait, Union",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Primary ",
+        "total_students": 935,
+        "total_teachers": 43,
+        "ownership": "Private",
+        "no_computers": 10,
+        "internet_availability": "Not available",
+        "restrooms_total": 20,
+        "classrooms_total": 16,
+        "Health_kits_total": 24,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.989715,
+          14.008646
+        ]
+      },
+      "properties": {
+        "id": 758077,
+        "country": "Saint Lucia",
+        "name": "St. Aloysius R.C. Boy's Infant",
+        "latitude": 14.008646,
+        "longitude": -60.989715,
+        "address": "Peynier Street, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Primary ",
+        "total_students": 271,
+        "total_teachers": 12,
+        "ownership": "Public",
+        "no_computers": 20,
+        "internet_availability": "Not available",
+        "restrooms_total": 6,
+        "classrooms_total": 10,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.998249,
+          13.986719
+        ]
+      },
+      "properties": {
+        "id": 758080,
+        "country": "Saint Lucia",
+        "name": "Dennery Infant",
+        "latitude": 13.986719,
+        "longitude": -60.998249,
+        "address": "Victoria Street,  Dennery",
+        "admin_district": "Dennery ",
+        "edu_district": 5,
+        "level": "Primary ",
+        "total_students": 198,
+        "total_teachers": 5,
+        "ownership": "Private",
+        "no_computers": 11,
+        "internet_availability": "Available",
+        "restrooms_total": 4,
+        "classrooms_total": 7,
+        "Health_kits_total": 4,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.043672,
+          13.939495
+        ]
+      },
+      "properties": {
+        "id": 758082,
+        "country": "Saint Lucia",
+        "name": "Anse La Raye Infant",
+        "latitude": 13.939495,
+        "longitude": -61.043672,
+        "address": "Front Street, Anse La Raye",
+        "admin_district": "Anse L ay Ray ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 135,
+        "total_teachers": 3,
+        "ownership": "Private",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 7,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.977526,
+          13.953303
+        ]
+      },
+      "properties": {
+        "id": 758084,
+        "country": "Saint Lucia",
+        "name": "Bexon Infant",
+        "latitude": 13.953303,
+        "longitude": -60.977526,
+        "address": "Bexon",
+        "admin_district": "Castries ",
+        "edu_district": 4,
+        "level": "Primary ",
+        "total_students": 205,
+        "total_teachers": 8,
+        "ownership": "Public",
+        "no_computers": 11,
+        "internet_availability": "Not available",
+        "restrooms_total": 5,
+        "classrooms_total": 9,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.952875,
+          13.731157
+        ]
+      },
+      "properties": {
+        "id": 758086,
+        "country": "Saint Lucia",
+        "name": "Vieux Fort Infant",
+        "latitude": 13.731157,
+        "longitude": -60.952875,
+        "address": "Clarke Street Vieux-Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 164,
+        "total_teachers": 8,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 3,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05765,
+          13.857514
+        ]
+      },
+      "properties": {
+        "id": 758088,
+        "country": "Saint Lucia",
+        "name": "Soufriere Infant",
+        "latitude": 13.857514,
+        "longitude": -61.05765,
+        "address": "Palmiste Road, Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 190,
+        "total_teachers": 5,
+        "ownership": "Private",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06665,
+          13.903775
+        ]
+      },
+      "properties": {
+        "id": 758089,
+        "country": "Saint Lucia",
+        "name": "Canaries Infant",
+        "latitude": 13.903775,
+        "longitude": -61.06665,
+        "address": "Riverside Road, Canaries",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Primary ",
+        "total_students": 69,
+        "total_teachers": 3,
+        "ownership": "Public",
+        "no_computers": 16,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.931088,
+          13.786858
+        ]
+      },
+      "properties": {
+        "id": 758090,
+        "country": "Saint Lucia",
+        "name": "Vigier Combined",
+        "latitude": 13.786858,
+        "longitude": -60.931088,
+        "address": "Vige, Vieux Fort",
+        "admin_district": "Vieux Fort ",
+        "edu_district": 6,
+        "level": "Primary ",
+        "total_students": 38,
+        "total_teachers": 1,
+        "ownership": "Public",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 1,
+        "classrooms_total": 2,
+        "Health_kits_total": 1,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9787,
+          14.02714
+        ]
+      },
+      "properties": {
+        "id": 140001,
+        "country": "Saint Lucia",
+        "name": "Castries Comprehensive",
+        "latitude": 14.02714,
+        "longitude": -60.9787,
+        "address": "Sunny Acres, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Secondary ",
+        "total_students": 693,
+        "total_teachers": 26,
+        "ownership": "Public",
+        "no_computers": 20,
+        "internet_availability": "Not available",
+        "restrooms_total": 16,
+        "classrooms_total": 11,
+        "Health_kits_total": 9,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9819,
+          14.00637
+        ]
+      },
+      "properties": {
+        "id": 140002,
+        "country": "Saint Lucia",
+        "name": "St. Joseph's Convent",
+        "latitude": 14.00637,
+        "longitude": -60.9819,
+        "address": "Cedatrs, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Secondary ",
+        "total_students": 694,
+        "total_teachers": 17,
+        "ownership": "Private",
+        "no_computers": 11,
+        "internet_availability": "Available",
+        "restrooms_total": 15,
+        "classrooms_total": 24,
+        "Health_kits_total": 8,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9996,
+          14.02358
+        ]
+      },
+      "properties": {
+        "id": 140003,
+        "country": "Saint Lucia",
+        "name": "St. Mary's College",
+        "latitude": 14.02358,
+        "longitude": -60.9996,
+        "address": "Vigie, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Secondary ",
+        "total_students": 569,
+        "total_teachers": 15,
+        "ownership": "Private",
+        "no_computers": 7,
+        "internet_availability": "Not available",
+        "restrooms_total": 10,
+        "classrooms_total": 29,
+        "Health_kits_total": 8,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9647,
+          13.75005
+        ]
+      },
+      "properties": {
+        "id": 140005,
+        "country": "Saint Lucia",
+        "name": "Vieux Fort Comprehesive ",
+        "latitude": 13.75005,
+        "longitude": -60.9647,
+        "address": "La Ressource, Vieux Fort",
+        "admin_district": "Vieux Fort",
+        "edu_district": 6,
+        "level": "Secondary ",
+        "total_students": 2577,
+        "total_teachers": 104,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 57,
+        "classrooms_total": 46,
+        "Health_kits_total": 28,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0375,
+          13.85396
+        ]
+      },
+      "properties": {
+        "id": 140006,
+        "country": "Saint Lucia",
+        "name": "Soufriere Comprehensive",
+        "latitude": 13.85396,
+        "longitude": -61.0375,
+        "address": "Soufriere",
+        "admin_district": "Soufriere",
+        "edu_district": 8,
+        "level": "Secondary ",
+        "total_students": 512,
+        "total_teachers": 16,
+        "ownership": "Private",
+        "no_computers": 15,
+        "internet_availability": "Not available",
+        "restrooms_total": 12,
+        "classrooms_total": 10,
+        "Health_kits_total": 8,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9818,
+          14.00414
+        ]
+      },
+      "properties": {
+        "id": 140007,
+        "country": "Saint Lucia",
+        "name": "Entrepot Secondary",
+        "latitude": 14.00414,
+        "longitude": -60.9818,
+        "address": "Entrepot, Castries ",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Secondary ",
+        "total_students": 628,
+        "total_teachers": 32,
+        "ownership": "Private",
+        "no_computers": 18,
+        "internet_availability": "Available",
+        "restrooms_total": 13,
+        "classrooms_total": 13,
+        "Health_kits_total": 10,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.979,
+          13.99965
+        ]
+      },
+      "properties": {
+        "id": 140008,
+        "country": "Saint Lucia",
+        "name": "Leon Hess Comprehensive",
+        "latitude": 13.99965,
+        "longitude": -60.979,
+        "address": "Entrepot, Castries ",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Secondary ",
+        "total_students": 678,
+        "total_teachers": 14,
+        "ownership": "Private",
+        "no_computers": 10,
+        "internet_availability": "Not available",
+        "restrooms_total": 12,
+        "classrooms_total": 12,
+        "Health_kits_total": 12,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9005,
+          13.81847
+        ]
+      },
+      "properties": {
+        "id": 140009,
+        "country": "Saint Lucia",
+        "name": "Micoud Secondary",
+        "latitude": 13.81847,
+        "longitude": -60.9005,
+        "address": "Micioud",
+        "admin_district": "Vieux Fort",
+        "edu_district": 5,
+        "level": "Secondary ",
+        "total_students": 694,
+        "total_teachers": 16,
+        "ownership": "Public",
+        "no_computers": 19,
+        "internet_availability": "Available",
+        "restrooms_total": 13,
+        "classrooms_total": 11,
+        "Health_kits_total": 9,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9661,
+          14.04612
+        ]
+      },
+      "properties": {
+        "id": 140010,
+        "country": "Saint Lucia",
+        "name": "Corinth Secondary",
+        "latitude": 14.04612,
+        "longitude": -60.9661,
+        "address": "Corinth ",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Secondary ",
+        "total_students": 673,
+        "total_teachers": 17,
+        "ownership": "Private",
+        "no_computers": 14,
+        "internet_availability": "Not available",
+        "restrooms_total": 15,
+        "classrooms_total": 14,
+        "Health_kits_total": 11,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9827,
+          14.01838
+        ]
+      },
+      "properties": {
+        "id": 140011,
+        "country": "Saint Lucia",
+        "name": "Vide Bouteille Secondary (Patricia  D James)",
+        "latitude": 14.01838,
+        "longitude": -60.9827,
+        "address": "Vide Boutille, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Secondary ",
+        "total_students": 613,
+        "total_teachers": 17,
+        "ownership": "Public",
+        "no_computers": 13,
+        "internet_availability": "Available",
+        "restrooms_total": 12,
+        "classrooms_total": 10,
+        "Health_kits_total": 14,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0432,
+          13.77207
+        ]
+      },
+      "properties": {
+        "id": 140012,
+        "country": "Saint Lucia",
+        "name": "Choiseul Secondary",
+        "latitude": 13.77207,
+        "longitude": -61.0432,
+        "address": "Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Secondary ",
+        "total_students": 525,
+        "total_teachers": 25,
+        "ownership": "Public",
+        "no_computers": 12,
+        "internet_availability": "Available",
+        "restrooms_total": 13,
+        "classrooms_total": 18,
+        "Health_kits_total": 6,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.892963,
+          13.910098
+        ]
+      },
+      "properties": {
+        "id": 140013,
+        "country": "Saint Lucia",
+        "name": "Clendon Mason Memorial",
+        "latitude": 13.910098,
+        "longitude": -60.892963,
+        "address": "Mole Road, Dennery",
+        "admin_district": "Dennery",
+        "edu_district": 5,
+        "level": "Secondary ",
+        "total_students": 685,
+        "total_teachers": 32,
+        "ownership": "Private",
+        "no_computers": 6,
+        "internet_availability": "Not available",
+        "restrooms_total": 18,
+        "classrooms_total": 17,
+        "Health_kits_total": 7,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9798,
+          14.02621
+        ]
+      },
+      "properties": {
+        "id": 140014,
+        "country": "Saint Lucia",
+        "name": "Sir Ira Simmons",
+        "latitude": 14.02621,
+        "longitude": -60.9798,
+        "address": "Vide Boutille, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 2,
+        "level": "Secondary ",
+        "total_students": 628,
+        "total_teachers": 14,
+        "ownership": "Public",
+        "no_computers": 19,
+        "internet_availability": "Available",
+        "restrooms_total": 11,
+        "classrooms_total": 19,
+        "Health_kits_total": 15,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9702,
+          14.00522
+        ]
+      },
+      "properties": {
+        "id": 140016,
+        "country": "Saint Lucia",
+        "name": "Bocage Secondary",
+        "latitude": 14.00522,
+        "longitude": -60.9702,
+        "address": "Bocage,Castries",
+        "admin_district": "Castries ",
+        "edu_district": 3,
+        "level": "Secondary ",
+        "total_students": 308,
+        "total_teachers": 12,
+        "ownership": "Public",
+        "no_computers": 13,
+        "internet_availability": "Not available",
+        "restrooms_total": 7,
+        "classrooms_total": 6,
+        "Health_kits_total": 5,
+        "Shelter_floods": false,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0234,
+          13.75644
+        ]
+      },
+      "properties": {
+        "id": 140017,
+        "country": "Saint Lucia",
+        "name": "Piaye Secondary ",
+        "latitude": 13.75644,
+        "longitude": -61.0234,
+        "address": "Piaye, Choiseul",
+        "admin_district": "Choiseul",
+        "edu_district": 7,
+        "level": "Secondary ",
+        "total_students": 173,
+        "total_teachers": 6,
+        "ownership": "Private",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 5,
+        "classrooms_total": 3,
+        "Health_kits_total": 2,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9201,
+          13.7967
+        ]
+      },
+      "properties": {
+        "id": 140018,
+        "country": "Saint Lucia",
+        "name": "Anse Ger Secondary",
+        "latitude": 13.7967,
+        "longitude": -60.9201,
+        "address": "Anse Ger ",
+        "admin_district": "Micoud",
+        "edu_district": 5,
+        "level": "Secondary ",
+        "total_students": 300,
+        "total_teachers": 10,
+        "ownership": "Public",
+        "no_computers": 20,
+        "internet_availability": "Not available",
+        "restrooms_total": 6,
+        "classrooms_total": 14,
+        "Health_kits_total": 4,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9454,
+          14.00579
+        ]
+      },
+      "properties": {
+        "id": 140019,
+        "country": "Saint Lucia",
+        "name": "Babonneau Secondary",
+        "latitude": 14.00579,
+        "longitude": -60.9454,
+        "address": "Babonneau",
+        "admin_district": "Castries ",
+        "edu_district": 1,
+        "level": "Secondary ",
+        "total_students": 534,
+        "total_teachers": 14,
+        "ownership": "Public",
+        "no_computers": 15,
+        "internet_availability": "Not available",
+        "restrooms_total": 10,
+        "classrooms_total": 12,
+        "Health_kits_total": 8,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.008039,
+          13.996393
+        ]
+      },
+      "properties": {
+        "id": 140020,
+        "country": "Saint Lucia",
+        "name": "Ciceron Secondary",
+        "latitude": 13.996393,
+        "longitude": -61.008039,
+        "address": "Ciceron, Castries",
+        "admin_district": "Castries ",
+        "edu_district": 4,
+        "level": "Secondary ",
+        "total_students": 810,
+        "total_teachers": 22,
+        "ownership": "Public",
+        "no_computers": 13,
+        "internet_availability": "Not available",
+        "restrooms_total": 16,
+        "classrooms_total": 33,
+        "Health_kits_total": 11,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0133,
+          13.96459
+        ]
+      },
+      "properties": {
+        "id": 140022,
+        "country": "Saint Lucia",
+        "name": "Stanley Jon Odlum Memorial ",
+        "latitude": 13.96459,
+        "longitude": -61.0133,
+        "address": "Marigot, Castries",
+        "admin_district": "Anse La Ray",
+        "edu_district": 4,
+        "level": "Secondary ",
+        "total_students": 537,
+        "total_teachers": 13,
+        "ownership": "Public",
+        "no_computers": 8,
+        "internet_availability": "Not available",
+        "restrooms_total": 12,
+        "classrooms_total": 9,
+        "Health_kits_total": 9,
+        "Shelter_floods": true,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9292,
+          13.93315
+        ]
+      },
+      "properties": {
+        "id": 140023,
+        "country": "Saint Lucia",
+        "name": "Grande Riviere Secondary",
+        "latitude": 13.93315,
+        "longitude": -60.9292,
+        "address": "Grande Rivere, Dennery",
+        "admin_district": "Micoud",
+        "edu_district": 5,
+        "level": "Secondary ",
+        "total_students": 192,
+        "total_teachers": 6,
+        "ownership": "Private",
+        "no_computers": 17,
+        "internet_availability": "Not available",
+        "restrooms_total": 4,
+        "classrooms_total": 4,
+        "Health_kits_total": 3,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": true,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.95,
+          13.72847
+        ]
+      },
+      "properties": {
+        "id": 140108,
+        "country": "Saint Lucia",
+        "name": "Beanefield",
+        "latitude": 13.72847,
+        "longitude": -60.95,
+        "address": "Vieux Fort",
+        "admin_district": "Vieux Fort",
+        "edu_district": 6,
+        "level": "Secondary ",
+        "total_students": 911,
+        "total_teachers": 19,
+        "ownership": "Public",
+        "no_computers": 14,
+        "internet_availability": "Available",
+        "restrooms_total": 23,
+        "classrooms_total": 19,
+        "Health_kits_total": 10,
+        "Shelter_floods": true,
+        "Shelter_fire": true,
+        "Shelter_quake": false,
+        "Shelter_tsunami": true,
+        "Shelter_volcano": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9445,
+          14.07922
+        ]
+      },
+      "properties": {
+        "id": 140111,
+        "country": "Saint Lucia",
+        "name": "St Lucia Sports Academey ",
+        "latitude": 14.07922,
+        "longitude": -60.9445,
+        "address": "Gros Islet",
+        "admin_district": "Gros Islet ",
+        "edu_district": 1,
+        "level": "Secondary ",
+        "total_students": 70,
+        "total_teachers": 2,
+        "ownership": "Public",
+        "no_computers": 7,
+        "internet_availability": "Not available",
+        "restrooms_total": 2,
+        "classrooms_total": 2,
+        "Health_kits_total": 2,
+        "Shelter_floods": false,
+        "Shelter_fire": false,
+        "Shelter_quake": false,
+        "Shelter_tsunami": false,
+        "Shelter_volcano": false
+      }
+    }
+  ]
+}
