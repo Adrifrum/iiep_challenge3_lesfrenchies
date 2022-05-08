@@ -6,6 +6,9 @@ from collections import OrderedDict
 
 df = pd.read_excel('Saint-Lucia-IIEP-topup.xlsx')
 
+df = df.replace('true','Available', regex=True)
+df = df.replace('false','Unavailable', regex=True)
+
 json_result_string = df.to_json(
     orient='records',
     double_precision=12,
